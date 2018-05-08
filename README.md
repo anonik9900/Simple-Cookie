@@ -11,4 +11,4 @@ Simple Cookie written in Javascript
 
 4) Test and edit your Personal Cookie advertise 
 
-5) Create an Cookie Policy or Insert the pre-created policy by me
+5) Create a Cookie Policy or Insert the pre-created policy by me
