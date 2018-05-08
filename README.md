@@ -5,7 +5,9 @@ Simple Cookie written in Javascript
 
 1) Create your index.html file
 
-2) Include your Cookie.js file <code><script src="cookie.js" type="text/javascript"></script> </code>
+2) Include your Cookie.js file:
+
+<code><script src="cookie.js" type="text/javascript"></script> </code>
 
 3) Include Jquery : 
 
